@@ -1,0 +1,24 @@
+{
+  "dl_number_mapping": {
+    "TeamSM": "DL20512",
+    "Pipeline Generation": "DL20966",
+    "Support-Page mit Kubera": "DL20967",
+    "Presales": "DL20517",
+    "Open Up": "DL20853",
+    "Filtrox": "DL20834",
+    "Ades": "DL20865",
+    "CH Architekten": "DL20820",
+    "EIT.swiss": "DL20862"
+  },
+  "second_field_mapping": {
+    "TeamSM": "Intern",
+    "Pipeline Generation": "Intern",
+    "Support-Page mit Kubera": "Intern",
+    "Presales": "Intern",
+    "Open Up": "MS-DV",
+    "Filtrox": "MS-DV",
+    "Ades": "MS-DV",
+    "CH Architekten": "MS-DV",
+    "EIT.swiss": "MS-DV"
+  }
+}
